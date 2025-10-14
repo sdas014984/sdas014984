@@ -21,7 +21,7 @@
     </td>
     <td>
      <p align="center">
-        <img height="360em" src="https://github.com/Taabannn/Taabannn/blob/main/images/java-python-developer.png">
+        <img height="360em" src="">
      </p>
     </td>
   </tr>
@@ -73,7 +73,7 @@
       <img align="center" alt="Suvijoy Das | Instagram" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/instagram-new.png">
       </a> &nbsp;&nbsp;
       <a href="mailto:sdas014984gmail.com">
-      <img align="center" alt="Suvijoy Das | Gmail" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/gmail.png">
+      <img align="center" alt="Suvijoy Das | Gmail" width="30em" src="[https://img.icons8.com/ios-glyphs/50/000000/gmail.png](https://github.com/sdas014984/main_dbpro/blob/main/img2.png)">
       </a> &nbsp;&nbsp;
       <a href="https://join.skype.com/invite/oJPb3eoBcLa3">
       <img align="center" alt="Suvijoy Das | Skype" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/skype.png">
