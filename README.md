@@ -3,9 +3,13 @@
  <p><img src="https://github.com/sdas014984/main_dbpro/blob/main/userproj3.gif" alt=""></p>
 <h2 id="im-Suvijoy Das">I’m Suvijoy Das</h2>
 <div class="google-auto-placed"  style="width: 100%; height: auto; clear: both; text-align: center;"><ins data-ad-format="auto" class="adsbygoogle adsbygoogle-noablate" data-ad-client="ca-pub-5867915342436534" data-adsbygoogle-status="done" style="display: block; margin: 10px auto; background-color: transparent; height: 0px;" data-ad-status="unfilled"><div id="aswift_2_host" style="border: none; height: 0px; width: 1150px; margin: 0px; padding: 0px; position: relative; visibility: visible; background-color: transparent; display: inline-block; overflow: hidden; opacity: 0;">
-  
+ <style type="text/css">
+.bgimg {
+    background-image: url('https://github.com/sdas014984/main_dbpro/blob/main/userproj.gif');
+}
+</style>
 
-</div background-image="https://github.com/sdas014984/main_dbpro/blob/main/userproj.gif"></ins></div><p><img src="https://komarev.com/ghpvc/?username=sadas014984&amp;color=0069b4" alt=""></p>
+</div class="bgimg" alt=""></p>
 <table>
   <tbody><tr>
     <td>
