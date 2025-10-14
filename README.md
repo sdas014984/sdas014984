@@ -84,5 +84,5 @@
   </tr>
 </tbody></table>
 <hr>
-<p>Credit: <a href="https://github.com/Taabannn">Taabannn</a></p>
+<p>Credit: <a href="https://www.linkedin.com/in/suvijoydas">Suvijoy</a></p>
 <p>Last Edited on: 07/08/2022</p> 
