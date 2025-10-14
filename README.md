@@ -11,8 +11,8 @@
     <td>
       <h2> 💻 &nbsp;About Me </h2>
        <ul>
-        <li>🎓 &nbsp; Project Manager  <a href="https://ut.ac.ir/en">UT</a></li>
-        <li>📚 &nbsp; Devops <a href="https://ut.ac.ir/en">UT</a></li>
+        <li>🎓 &nbsp; Project Manager  <a href="https://www.linkedin.com/in/suvijoydas/">UT</a></li>
+        <li>📚 &nbsp; Devops <a href="https://www.linkedin.com/in/suvijoydas/">UT</a></li>
         <li>👑 &nbsp; Multi Cloud </li>
         <li>🤔 &nbsp; Automation CI/CD </li>
        </ul>
