@@ -1,4 +1,4 @@
-  <h3 id="hi-there">Hi there 👋</h3>
+ <h3 id="hi-there">Greetings Of The Day 👋</h3>
 <h2 id="im-Suvijoy Das">I’m Suvijoy Das</h2>
 <div class="google-auto-placed" style="width: 100%; height: auto; clear: both; text-align: center;"><ins data-ad-format="auto" class="adsbygoogle adsbygoogle-noablate" data-ad-client="ca-pub-5867915342436534" data-adsbygoogle-status="done" style="display: block; margin: 10px auto; background-color: transparent; height: 0px;" data-ad-status="unfilled"><div id="aswift_2_host" style="border: none; height: 0px; width: 1150px; margin: 0px; padding: 0px; position: relative; visibility: visible; background-color: transparent; display: inline-block; overflow: hidden; opacity: 0;">
   
@@ -9,10 +9,10 @@
     <td>
       <h2> 💻 &nbsp;About Me </h2>
        <ul>
-        <li>🎓 &nbsp; B.Sc  <a href="https://ut.ac.ir/en">UT</a></li>
+        <li>🎓 &nbsp; Project Manager  <a href="https://ut.ac.ir/en">UT</a></li>
         <li>📚 &nbsp; Devops <a href="https://ut.ac.ir/en">UT</a></li>
-        <li>👑 &nbsp; Project Manager </li>
-        <li>🤔 &nbsp; Automation & ML </li>
+        <li>👑 &nbsp; Multi Cloud </li>
+        <li>🤔 &nbsp; Automation CI/CD </li>
        </ul>
        <p align="center">
          <br>
