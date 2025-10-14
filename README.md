@@ -73,7 +73,7 @@
       <img align="center" alt="Suvijoy Das | Instagram" width="60em" src="https://img.icons8.com/ios-glyphs/50/000000/instagram-new.png">
       </a> &nbsp;&nbsp;
       <a href="mailto:sdas014984gmail.com">
-      <img align="center" alt="Suvijoy Das | Gmail" width="60em" src="https://github.com/sdas014984/main_dbpro/blob/main/img2.png">
+      <img align="center" alt="Suvijoy Das | Gmail" width="60em" src="https://img.icons8.com/ios-glyphs/50/000000/gmail.png">
       </a> &nbsp;&nbsp;
       <a href="https://join.skype.com/invite/oJPb3eoBcLa3">
       <img align="center" alt="Suvijoy Das | Skype" width="60em" src="https://img.icons8.com/ios-glyphs/50/000000/skype.png">
