@@ -23,7 +23,7 @@
     </td>
     <td>
      <p align="center">
-        <img height="360em" src="https://github.com/sdas014984/main_dbpro/blob/main/userproj.gif">
+        <img height="360em" src="https://github.com/sdas014984/main_dbpro/blob/main/ezgif.com-added-text.gif">
      </p>
     </td>
   </tr>
