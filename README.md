@@ -1,11 +1,3 @@
-    <head>
-        <title>Internal Script Example</title>
-        <script>
-            function greet() {
-                alert("Hello from the head!");
-            }
-        </script>
-    </head>
  
  <h3 id="hi-there">Greetings Of The Day 👋</h3>
 
