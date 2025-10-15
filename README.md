@@ -1,4 +1,3 @@
- <html>
     <head>
         <title>Internal Script Example</title>
         <script>
@@ -100,5 +99,5 @@
 </tbody></table>
 <hr>
 <p>Credit: <a href="https://www.linkedin.com/in/suvijoydas">Suvijoy</a></p>
-<p>Last Edited on: 15/10/2025</p> 
-</html>
+<p><b>Last Edited on: 15/10/2025</b></p> 
+
